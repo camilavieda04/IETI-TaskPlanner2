@@ -13,7 +13,7 @@ No puedes participar en otras actividades que mejorarán de manera deshonesta tu
 
 
 # Desarrollo 
- ## Get 
+ ## GET 
  https://ieti-taskplanner.azurewebsites.net/api/list-task?code=AKzWBpZMa5CX2sqrttEd5LJ9QSQBeAmuWPZMlLJgrahFNTK/jCmalw==
- ## POST 
+ ## POST
  https://ieti-taskplanner.azurewebsites.net/api/add-task?code=8n7eB9hsSyEGxgalG86qb/aoZMmnpV1W/D4B4plbHoOJdjBmj86Whw==
