@@ -13,6 +13,7 @@ No puedes participar en otras actividades que mejorarán de manera deshonesta tu
 
 
 # Desarrollo 
+Avisar para activar el servicio 
  ## GET 
  https://ieti-taskplanner.azurewebsites.net/api/list-task?code=AKzWBpZMa5CX2sqrttEd5LJ9QSQBeAmuWPZMlLJgrahFNTK/jCmalw==
  ## POST
